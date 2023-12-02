@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Cioakh/Cioakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Cioakh.
+Senior High Student  
+
+```Rust
+ let languages = vec!["rust", "cpp", "kotlin", "java", "python"];
+```
+
+Email: Cioakh@Outlook.com  or  2301385546@qq.com  
